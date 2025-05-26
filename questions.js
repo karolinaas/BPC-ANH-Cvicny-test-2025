@@ -510,7 +510,7 @@ const questions = [
     },
     {
         question: "Jaký efekt je použit na kytaru?",
-        audio: "mediaefekt_na_kytare2.mp3",
+        audio: "media/efekt_na_kytare2.mp3",
         options: [
             "modulační efekt Flanger",
             "rozlaďující efekt Kompresor",
