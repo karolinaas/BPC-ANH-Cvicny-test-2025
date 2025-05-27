@@ -1172,5 +1172,42 @@ const questions = [
             "díky exponenciálně tvarovanému radiátoru"
         ],
         answer: "v různě hustém nebo nehomogenním oscilátoru, kde se pak některé harmonické vlny zrychlují nebo zpomalují"
+    },
+    {
+        question: "U hnědého šumu roste výkonová hustota spektra o 6 dB na stoupající oktávu.",
+        options: [
+            "Pravda",
+            "Nepravda"
+        ],
+        answer: "Nepravda"
+    },
+    {
+        question: "Křivky dynamických rozsahů níže platí pro",
+        questionImage: "media/dyn_drnkaci.png",
+        options: [
+            "Smyčce",
+            "Dřevěné nástroje",
+            "Lidské hlasy",
+            "Strunné drnkací nástroje"
+        ],
+        answer: "Strunné drnkací nástroje"
+    },
+    {
+        question: "Zobcové flétny mají vyšší dynamický rozsah než flétna příčná",
+        options: [
+            "Pravda",
+            "Nepravda"
+        ],
+        answer: "Nepravda"
+    },
+    {
+        question: "Při čtyřnásobném zvýšení počtu smyčců v sekci z 4-4-3-2-1 na 16-16-12-8-6 naroste dynamika v dB průměrně o",
+        options: [
+            "9-12 dB",
+            "3-5 dB",
+            "40 dB",
+            "1-2 dB"
+        ],
+        answer: "3-5 dB"
     }
 ];
